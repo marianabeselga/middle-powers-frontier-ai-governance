@@ -1,0 +1,3 @@
+source_actor,target_actor,relationship_type,coordination_level,episode_id,evidence_id,underlying_relationship_id,cross_episode_duplicate_flag
+CTY-SGP,CTY-JPN,technical coordination,technical-operational,EP-BLETCHLEY-SEQUENCE-2023,EVD-SGP-015,REL-SGP-JPN-AISI-TESTING-01,true
+CTY-JPN,CTY-IND,diplomatic coordination,state/diplomatic,EP-HIROSHIMA-AI-2024,EVD-IND-020,,false

@@ -1,0 +1,5 @@
+episode,capabilities_mobilised,relational_coordination,institutional_instrument,governance_location,institutional_information_gl1_3,regulatory_behavioural_gl4_5,note
+Bletchley Sequence,y,y,y,y,y,m,Pathway complete (GL5 at moderate confidence)
+AISI Network,y,y,y,y,y,x,Pathway breaks at GL4-5 (no developer-facing channel)
+Hiroshima AI Process,y,y,y,y,y,y,Pathway complete (the only fully intact case)
+GPAI,y,y,y,y,m,x,Pathway breaks at GL4-5 (institutionalised effects only)

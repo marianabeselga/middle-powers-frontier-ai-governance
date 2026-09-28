@@ -1,0 +1,25 @@
+actor,episode,participates,tier
+Brazil,Bletchley Sequence,1,full
+Brazil,AISI Network,0,
+Brazil,Hiroshima AI Process,1,observer
+Brazil,GPAI,1,full
+Canada,Bletchley Sequence,1,full
+Canada,AISI Network,1,full
+Canada,Hiroshima AI Process,1,full
+Canada,GPAI,1,full
+India,Bletchley Sequence,1,full
+India,AISI Network,0,
+India,Hiroshima AI Process,1,full
+India,GPAI,1,full
+Japan,Bletchley Sequence,1,full
+Japan,AISI Network,1,full
+Japan,Hiroshima AI Process,1,full
+Japan,GPAI,1,full
+South Korea,Bletchley Sequence,1,full
+South Korea,AISI Network,1,full
+South Korea,Hiroshima AI Process,1,full
+South Korea,GPAI,1,full
+Singapore,Bletchley Sequence,1,full
+Singapore,AISI Network,1,full
+Singapore,Hiroshima AI Process,1,full
+Singapore,GPAI,1,full

@@ -1,0 +1,5 @@
+episode,institutionalisation_level,institutionalisation_label,gl5_status,institutional_instrument
+AISI Network,Level 4,Operationalised,not established,"Joint testing and evaluation; no developer-facing channel"
+GPAI,Level 4,Operationalised,not established,"Working-group reports and architecture; no developer channel"
+Bletchley Sequence,Level 2,Organised / repeated,moderate,"Developer-facing commitments (signed pledges)"
+Hiroshima AI Process,Level 3-4,Formalised -> Operationalised,established,"OECD reporting framework, developer-facing and observed"

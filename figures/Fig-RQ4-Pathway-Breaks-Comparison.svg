@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008 692" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1008" height="692" fill="#f8f7f4"/>
+<text x="504.0" y="30" text-anchor="middle" font-size="21" font-weight="700" fill="#1e1e1e">Where coordination pathways reach, stall, or break</text>
+<text x="504.0" y="52" text-anchor="middle" font-size="12.5" fill="#1e1e1e" opacity="0.75">A shared analytical spine (Codebook C → M → I → L → GL); each Episode plotted against its own empirically supported reach</text>
+<text x="274.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Capabilities</text>
+<text x="274.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">mobilised</text>
+<line x1="274.0" y1="110" x2="274.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="402.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Relational</text>
+<text x="402.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">coordination</text>
+<line x1="402.0" y1="110" x2="402.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="530.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Institutional</text>
+<text x="530.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">instrument</text>
+<line x1="530.0" y1="110" x2="530.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="658.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Governance</text>
+<text x="658.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">location (L)</text>
+<line x1="658.0" y1="110" x2="658.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="786.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Institutional /</text>
+<text x="786.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">information</text>
+<text x="786.0" y="108" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">leverage (GL1–3)</text>
+<line x1="786.0" y1="123" x2="786.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="914.0" y="82" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">Regulatory /</text>
+<text x="914.0" y="95" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">behavioural</text>
+<text x="914.0" y="108" text-anchor="middle" font-size="11" font-weight="700" fill="#4859FD">leverage (GL4–5)</text>
+<line x1="914.0" y1="123" x2="914.0" y2="144" stroke="#4859FD" stroke-opacity="0.18" stroke-dasharray="2,3"/>
+<text x="190" y="181" text-anchor="end" font-size="14" font-weight="700" fill="#1e1e1e">Bletchley Sequence</text>
+<circle cx="274.0" cy="176" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="290.0" y1="176" x2="354" y2="176" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="402.0" cy="176" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="418.0" y1="176" x2="482" y2="176" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="530.0" cy="176" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="546.0" y1="176" x2="610" y2="176" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="658.0" cy="176" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="674.0" y1="176" x2="738" y2="176" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="786.0" cy="176" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="802.0" y1="176" x2="866" y2="176" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="914.0" cy="176" r="15" fill="#aeb5f8" stroke="none" stroke-opacity="0" stroke-dasharray="2,2"/>
+<text x="202" y="210" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">Collective pathway complete (GL5 moderate confidence). Most individual country pathways stop earlier — 5 of 6 countries show</text>
+<text x="202" y="224" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">country-level GL6 (attribution-scale gap, not a process-level break).</text>
+<rect x="4" y="258" width="994" height="110" fill="#f0efed"/>
+<text x="190" y="299" text-anchor="end" font-size="14" font-weight="700" fill="#1e1e1e">AISI Network</text>
+<circle cx="274.0" cy="294" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="290.0" y1="294" x2="354" y2="294" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="402.0" cy="294" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="418.0" y1="294" x2="482" y2="294" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="530.0" cy="294" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="546.0" y1="294" x2="610" y2="294" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="658.0" cy="294" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="674.0" y1="294" x2="738" y2="294" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="786.0" cy="294" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="802.0" y1="294" x2="866" y2="294" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="3,4"/>
+<line x1="829.0" y1="286" x2="839.0" y2="302" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="829.0" y1="302" x2="839.0" y2="286" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="914.0" cy="294" r="12" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.3"/>
+<text x="202" y="328" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">No break at the collective level through GL1–GL3. GL4–GL5 not reached: the configuration's own instruments (testing/evaluation)</text>
+<text x="202" y="342" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">create no developer-facing governance location.</text>
+<text x="190" y="417" text-anchor="end" font-size="14" font-weight="700" fill="#1e1e1e">Hiroshima AI Process</text>
+<circle cx="274.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="290.0" y1="412" x2="354" y2="412" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="402.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="418.0" y1="412" x2="482" y2="412" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="530.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="546.0" y1="412" x2="610" y2="412" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="658.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="674.0" y1="412" x2="738" y2="412" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="786.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="802.0" y1="412" x2="866" y2="412" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="914.0" cy="412" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<text x="202" y="446" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">The only Episode with no break at any stage — the OECD Reporting Framework gives GL5 a developer-facing location to be observed</text>
+<text x="202" y="460" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">through.</text>
+<rect x="4" y="494" width="994" height="110" fill="#f0efed"/>
+<text x="190" y="535" text-anchor="end" font-size="14" font-weight="700" fill="#1e1e1e">GPAI</text>
+<circle cx="274.0" cy="530" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="290.0" y1="530" x2="354" y2="530" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="402.0" cy="530" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="418.0" y1="530" x2="482" y2="530" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="530.0" cy="530" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="546.0" y1="530" x2="610" y2="530" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="658.0" cy="530" r="15" fill="#5161fd" stroke="none" stroke-opacity="0"/>
+<line x1="674.0" y1="530" x2="738" y2="530" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="786.0" cy="530" r="15" fill="#aeb5f8" stroke="none" stroke-opacity="0" stroke-dasharray="2,2"/>
+<line x1="802.0" y1="530" x2="866" y2="530" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="3,4"/>
+<line x1="829.0" y1="522" x2="839.0" y2="538" stroke="#1e1e1e" stroke-width="2"/>
+<line x1="829.0" y1="538" x2="839.0" y2="522" stroke="#1e1e1e" stroke-width="2"/>
+<circle cx="914.0" cy="530" r="12" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.3"/>
+<text x="202" y="564" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">Break located precisely between institutionalisation and regulatory/behavioural effect. GL2 plausible, not fully established. The</text>
+<text x="202" y="578" font-size="10.8" font-style="italic" fill="#1e1e1e" opacity="0.75">source material itself repeatedly declines to attribute national regulation to GPAI.</text>
+<circle cx="20" cy="652" r="10" fill="#5161fd"/>
+<text x="38" y="657" font-size="11.5" fill="#1e1e1e">Stage reached (established)</text>
+<circle cx="240" cy="652" r="10" fill="#aeb5f8" stroke-dasharray="2,2"/>
+<text x="258" y="657" font-size="11.5" fill="#1e1e1e">Reached at moderate confidence / plausible</text>
+<circle cx="540" cy="652" r="9" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.3"/>
+<text x="558" y="657" font-size="11.5" fill="#1e1e1e">Not reached (break, marked ×)</text>
+</svg>

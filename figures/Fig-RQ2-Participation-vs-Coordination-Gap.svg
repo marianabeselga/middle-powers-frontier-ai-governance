@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 869" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1280" height="869" fill="#f8f7f4"/>
+<text x="640.0" y="50.0" font-size="28" font-weight="700" fill="#1E1E1E" text-anchor="middle">Participation versus established coordination, by Episode</text>
+<text x="640.0" y="76.0" font-size="14.5" font-weight="400" fill="#1E1E1E" text-anchor="middle" opacity="0.6">Participation-network density 0.875–0.917  |  direct actor-to-actor established-coordination density 0.133</text>
+<rect x="56.0" y="102.0" width="1168.0" height="62.0" rx="10" fill="#EEF0FE" stroke="#4859FD" stroke-width="1.3" stroke-opacity="0.35"/>
+<text x="640.0" y="141.0" font-size="22" font-weight="700" fill="#4859FD" text-anchor="middle">Participation was substantially broader than established coordination in every Episode but GPAI.</text>
+<text x="344.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">BRA</text>
+<text x="436.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">CAN</text>
+<text x="528.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">IND</text>
+<text x="620.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">JPN</text>
+<text x="712.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">KOR</text>
+<text x="804.0" y="210.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="middle">SGP</text>
+<text x="288.0" y="273.0" font-size="18" font-weight="700" fill="#1E1E1E" text-anchor="end">Bletchley Sequence</text>
+<rect x="136.0" y="285.0" width="152.0" height="22.0" rx="11" fill="#e7e4de"/>
+<text x="212.0" y="300.0" font-size="12.5" font-weight="600" fill="#1E1E1E" text-anchor="middle" opacity="0.72">Selective conversion</text>
+<circle cx="344.0" cy="277.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="344.0" y="281.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<circle cx="436.0" cy="277.0" r="27" fill="#4f5ffd"/>
+<text x="436.0" y="282.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="528.0" cy="277.0" r="27" fill="#4f5ffd"/>
+<text x="528.0" y="282.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="620.0" cy="277.0" r="27" fill="#4f5ffd"/>
+<text x="620.0" y="282.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="712.0" cy="277.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="712.0" y="281.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<circle cx="804.0" cy="277.0" r="27" fill="#4f5ffd"/>
+<text x="804.0" y="282.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<text x="891.0" y="283.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="start">4 of 6 established</text>
+<rect x="56.0" y="338.0" width="1135.0" height="96.0" rx="0" fill="#f0efed"/>
+<text x="288.0" y="381.0" font-size="18" font-weight="700" fill="#1E1E1E" text-anchor="end">AISI Network</text>
+<rect x="73.9" y="393.0" width="214.1" height="22.0" rx="11" fill="#e7e4de"/>
+<text x="180.9" y="408.0" font-size="12.5" font-weight="600" fill="#1E1E1E" text-anchor="middle" opacity="0.72">Universal within participants</text>
+<circle cx="344.0" cy="385.0" r="27" fill="#F8F7F4" stroke="#1E1E1E" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="4,4"/>
+<text x="344.0" y="391.0" font-size="18" font-weight="400" fill="#1E1E1E" text-anchor="middle" opacity="0.35">–</text>
+<circle cx="436.0" cy="385.0" r="27" fill="#4f5ffd"/>
+<text x="436.0" y="390.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="528.0" cy="385.0" r="27" fill="#F8F7F4" stroke="#1E1E1E" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="4,4"/>
+<text x="528.0" y="391.0" font-size="18" font-weight="400" fill="#1E1E1E" text-anchor="middle" opacity="0.35">–</text>
+<circle cx="620.0" cy="385.0" r="27" fill="#4f5ffd"/>
+<text x="620.0" y="390.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="712.0" cy="385.0" r="27" fill="#4f5ffd"/>
+<text x="712.0" y="390.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="804.0" cy="385.0" r="27" fill="#4f5ffd"/>
+<text x="804.0" y="390.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<text x="891.0" y="391.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="start">4 of 4 established</text>
+<text x="288.0" y="489.0" font-size="18" font-weight="700" fill="#1E1E1E" text-anchor="end">Hiroshima AI Process</text>
+<rect x="163.6" y="501.0" width="124.4" height="22.0" rx="11" fill="#e7e4de"/>
+<text x="225.8" y="516.0" font-size="12.5" font-weight="600" fill="#1E1E1E" text-anchor="middle" opacity="0.72">Highly selective</text>
+<circle cx="344.0" cy="493.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="344.0" y="497.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<circle cx="436.0" cy="493.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="436.0" y="497.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<circle cx="528.0" cy="493.0" r="27" fill="#4f5ffd"/>
+<text x="528.0" y="498.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="620.0" cy="493.0" r="27" fill="#4f5ffd"/>
+<text x="620.0" y="498.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="712.0" cy="493.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="712.0" y="497.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<circle cx="804.0" cy="493.0" r="27" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="804.0" y="497.0" font-size="12.5" font-weight="700" fill="#1E1E1E" text-anchor="middle">part.</text>
+<text x="891.0" y="499.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="start">2 of 6 established</text>
+<rect x="56.0" y="554.0" width="1135.0" height="96.0" rx="0" fill="#f0efed"/>
+<text x="288.0" y="597.0" font-size="18" font-weight="700" fill="#1E1E1E" text-anchor="end">GPAI</text>
+<rect x="108.4" y="609.0" width="179.6" height="22.0" rx="11" fill="#e7e4de"/>
+<text x="198.2" y="624.0" font-size="12.5" font-weight="600" fill="#1E1E1E" text-anchor="middle" opacity="0.72">Universal but stratified</text>
+<circle cx="344.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="344.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="436.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="436.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="528.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="528.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="620.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="620.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="712.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="712.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<circle cx="804.0" cy="601.0" r="27" fill="#4f5ffd"/>
+<text x="804.0" y="606.0" font-size="14" font-weight="700" fill="#F8F7F4" text-anchor="middle">EST</text>
+<text x="891.0" y="607.0" font-size="16" font-weight="700" fill="#1E1E1E" text-anchor="start">6 of 6 established (stratified by tier)</text>
+<rect x="293.0" y="203.0" width="562.0" height="447.0" rx="0" fill="none" stroke="#1E1E1E" stroke-width="1" stroke-opacity="0.15"/>
+<circle cx="69.0" cy="694.0" r="13" fill="#4f5ffd"/>
+<text x="96.0" y="699.0" font-size="14.5" font-weight="400" fill="#1E1E1E" text-anchor="start">Established coordination (M coded as established, Codebook §11)</text>
+<circle cx="69.0" cy="724.0" r="13" fill="#cfc2f6" stroke="#6F47FC" stroke-width="1.6"/>
+<text x="96.0" y="729.0" font-size="14.5" font-weight="400" fill="#1E1E1E" text-anchor="start">Participated / had institutional access, but no established coordination tie</text>
+<circle cx="69.0" cy="754.0" r="13" fill="#F8F7F4" stroke="#1E1E1E" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3"/>
+<text x="96.0" y="759.0" font-size="14.5" font-weight="400" fill="#1E1E1E" text-anchor="start">Not a participant in this Episode (no documented involvement)</text>
+<line x1="56.0" y1="794.0" x2="1224.0" y2="794.0" stroke="#1E1E1E" stroke-width="1" stroke-opacity="0.12"/>
+<text x="56.0" y="820.0" font-size="12.5" font-weight="400" fill="#1E1E1E" text-anchor="start" font-style="italic" opacity="0.6">Author’s elaboration from Stage 5, Datasets 1–2 and Stage 5B network metrics. “Established” follows the</text>
+<text x="56.0" y="839.0" font-size="12.5" font-weight="400" fill="#1E1E1E" text-anchor="start" font-style="italic" opacity="0.6">Codebook §11 Critical Rule; GPAI’s uniform tie count masks a state-level/expert-level stratification (§4.2).</text>
+</svg>

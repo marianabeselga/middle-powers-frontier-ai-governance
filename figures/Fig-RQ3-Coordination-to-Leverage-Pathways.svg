@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1156 818" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1156" height="818" fill="#f8f7f4"/>
+<text x="576.0" y="30" text-anchor="middle" font-size="21" font-weight="700" fill="#1e1e1e">From coordination to governance leverage: four comparative pathways</text>
+<text x="576.0" y="52" text-anchor="middle" font-size="12.5" fill="#1e1e1e" opacity="0.75">Established findings from the four frozen Episodes — different modes of institutional conversion, not one mandatory sequence</text>
+<text x="10" y="90" font-size="12.5" font-weight="700" fill="#4859FD">Episode</text>
+<text x="202" y="90" font-size="12.5" font-weight="700" fill="#4859FD">Coordination configuration (M)</text>
+<text x="448" y="90" font-size="12.5" font-weight="700" fill="#4859FD">Institutional instrument (I)</text>
+<text x="698" y="90" font-size="12.5" font-weight="700" fill="#4859FD">Governance location (L)</text>
+<text x="938" y="90" font-size="12.5" font-weight="700" fill="#4859FD">Observed governance leverage (GL)</text>
+<line x1="10" y1="100" x2="1142" y2="100" stroke="#1e1e1e" stroke-opacity="0.2"/>
+<rect x="10" y="142" width="178" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="22" y="162" font-size="14.5" font-weight="700" fill="#1e1e1e">Bletchley Sequence</text>
+<text x="22" y="183.5" font-size="11.2" fill="#1e1e1e" opacity="0.88">Level 2 — Organised</text>
+<text x="22" y="199.7" font-size="11.2" fill="#1e1e1e" opacity="0.88">/ repeated</text>
+<rect x="202" y="142" width="232" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="214" y="165" font-size="11.2" fill="#1e1e1e" opacity="0.88">Singapore–Japan;</text>
+<text x="214" y="181.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">Singapore–India–Canada</text>
+<text x="214" y="197.39999999999998" font-size="11.2" fill="#1e1e1e" opacity="0.88">(established, among several</text>
+<text x="214" y="213.59999999999997" font-size="11.2" fill="#1e1e1e" opacity="0.88">parallel configurations)</text>
+<rect x="448" y="142" width="236" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="460" y="165" font-size="11.2" fill="#1e1e1e" opacity="0.88">Joint Testing Report†; Network</text>
+<text x="460" y="181.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">of AI-for-Science Institutions;</text>
+<text x="460" y="197.39999999999998" font-size="11.2" fill="#1e1e1e" opacity="0.88">12 collective declarations</text>
+<rect x="698" y="142" width="226" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="710" y="165" font-size="11.2" fill="#1e1e1e" opacity="0.88">L3 evaluation/testing</text>
+<text x="710" y="181.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">(demonstrated); L7 institutional</text>
+<text x="710" y="197.39999999999998" font-size="11.2" fill="#1e1e1e" opacity="0.88">design; L1 agenda-setting</text>
+<text x="710" y="213.59999999999997" font-size="11.2" fill="#1e1e1e" opacity="0.88">(Korea)</text>
+<path d="M 191 208.0 L 199 208.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 437 208.0 L 445 208.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 687 208.0 L 695 208.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 927 208.0 L 935 208.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="938" y="173.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="967.0" y="192.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL1</text>
+<rect x="1004" y="173.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1033.0" y="192.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL2</text>
+<rect x="1070" y="173.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1099.0" y="192.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL3</text>
+<rect x="938" y="213.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="967.0" y="232.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL4</text>
+<rect x="1004" y="213.0" width="58" height="30" rx="15" fill="#aeb5f8" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" stroke-dasharray="4,2" opacity="1"/>
+<text x="1033.0" y="232.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="1">GL5</text>
+<rect x="6" y="284" width="1136" height="142" fill="#f0efed"/>
+<rect x="10" y="290" width="178" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="22" y="310" font-size="14.5" font-weight="700" fill="#1e1e1e">AISI Network</text>
+<text x="22" y="331.5" font-size="11.2" fill="#1e1e1e" opacity="0.88">Level 4 —</text>
+<text x="22" y="347.7" font-size="11.2" fill="#1e1e1e" opacity="0.88">Operationalised</text>
+<rect x="202" y="290" width="232" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="214" y="313" font-size="11.2" fill="#1e1e1e" opacity="0.88">Joint Testing Exercises (Singapore</text>
+<text x="214" y="329.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">lead; Japan, Korea, Canada</text>
+<text x="214" y="345.4" font-size="11.2" fill="#1e1e1e" opacity="0.88">contributors)</text>
+<rect x="448" y="290" width="236" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="460" y="313" font-size="11.2" fill="#1e1e1e" opacity="0.88">Mission Statement; Joint Statement</text>
+<text x="460" y="329.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">on Risk Assessment; testing-</text>
+<text x="460" y="345.4" font-size="11.2" fill="#1e1e1e" opacity="0.88">exercise reports</text>
+<rect x="698" y="290" width="226" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="710" y="313" font-size="11.2" fill="#1e1e1e" opacity="0.88">L3 evaluation/testing</text>
+<text x="710" y="329.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">(established); L7 institutional</text>
+<text x="710" y="345.4" font-size="11.2" fill="#1e1e1e" opacity="0.88">design (10-member founding)</text>
+<path d="M 191 356.0 L 199 356.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 437 356.0 L 445 356.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 687 356.0 L 695 356.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 927 356.0 L 935 356.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="938" y="321.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="967.0" y="340.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL1</text>
+<rect x="1004" y="321.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1033.0" y="340.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL2</text>
+<rect x="1070" y="321.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1099.0" y="340.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL3</text>
+<rect x="938" y="361.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="967.0" y="380.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL4</text>
+<rect x="1004" y="361.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="1033.0" y="380.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL5</text>
+<rect x="10" y="438" width="178" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="22" y="458" font-size="14.5" font-weight="700" fill="#1e1e1e">Hiroshima AI Process</text>
+<text x="22" y="479.5" font-size="11.2" fill="#1e1e1e" opacity="0.88">Level 3–4 —</text>
+<text x="22" y="495.7" font-size="11.2" fill="#1e1e1e" opacity="0.88">Formalised →</text>
+<text x="22" y="511.9" font-size="11.2" fill="#1e1e1e" opacity="0.88">Operationalised</text>
+<rect x="202" y="438" width="232" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="214" y="461" font-size="11.2" fill="#1e1e1e" opacity="0.88">Japan's Friends Group creation;</text>
+<text x="214" y="477.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">Japan–India bilateral cooperation</text>
+<rect x="448" y="438" width="236" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="460" y="461" font-size="11.2" fill="#1e1e1e" opacity="0.88">Friends Group + Action Plan 2026;</text>
+<text x="460" y="477.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">OECD Hiroshima Reporting Framework</text>
+<rect x="698" y="438" width="226" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="710" y="461" font-size="11.2" fill="#1e1e1e" opacity="0.88">L1 agenda-setting; L2 standard-</text>
+<text x="710" y="477.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">setting; L4</text>
+<text x="710" y="493.4" font-size="11.2" fill="#1e1e1e" opacity="0.88">transparency/reporting; L7</text>
+<text x="710" y="509.59999999999997" font-size="11.2" fill="#1e1e1e" opacity="0.88">institutional design</text>
+<path d="M 191 504.0 L 199 504.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 437 504.0 L 445 504.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 687 504.0 L 695 504.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 927 504.0 L 935 504.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="938" y="469.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="967.0" y="488.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL1</text>
+<rect x="1004" y="469.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1033.0" y="488.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL2</text>
+<rect x="1070" y="469.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1099.0" y="488.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL3</text>
+<rect x="938" y="509.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="967.0" y="528.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL4</text>
+<rect x="1004" y="509.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1033.0" y="528.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL5</text>
+<rect x="6" y="580" width="1136" height="142" fill="#f0efed"/>
+<rect x="10" y="586" width="178" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="22" y="606" font-size="14.5" font-weight="700" fill="#1e1e1e">GPAI</text>
+<text x="22" y="627.5" font-size="11.2" fill="#1e1e1e" opacity="0.88">Level 4 —</text>
+<text x="22" y="643.7" font-size="11.2" fill="#1e1e1e" opacity="0.88">Operationalised</text>
+<rect x="202" y="586" width="232" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="214" y="609" font-size="11.2" fill="#1e1e1e" opacity="0.88">Expert Working Groups (epistemic,</text>
+<text x="214" y="625.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">all six); Canada/Japan founding;</text>
+<text x="214" y="641.4000000000001" font-size="11.2" fill="#1e1e1e" opacity="0.88">India chairmanship (state)</text>
+<rect x="448" y="586" width="236" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="460" y="609" font-size="11.2" fill="#1e1e1e" opacity="0.88">4 ministerial declarations;</text>
+<text x="460" y="625.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">Council/Secretariat/ESC</text>
+<text x="460" y="641.4000000000001" font-size="11.2" fill="#1e1e1e" opacity="0.88">architecture; 2024 GPAI–OECD</text>
+<text x="460" y="657.6000000000001" font-size="11.2" fill="#1e1e1e" opacity="0.88">Partnership</text>
+<rect x="698" y="586" width="226" height="132" rx="8" fill="#e6e7f5" stroke="#97a0f9" stroke-width="1"/>
+<text x="710" y="609" font-size="11.2" fill="#1e1e1e" opacity="0.88">L1 agenda-setting; L2 standard-</text>
+<text x="710" y="625.2" font-size="11.2" fill="#1e1e1e" opacity="0.88">setting; L7 institutional design</text>
+<path d="M 191 652.0 L 199 652.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 437 652.0 L 445 652.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 687 652.0 L 695 652.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 927 652.0 L 935 652.0" stroke="#1e1e1e" stroke-opacity="0.35" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="938" y="617.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="967.0" y="636.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL1</text>
+<rect x="1004" y="617.0" width="58" height="30" rx="15" fill="#aeb5f8" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" stroke-dasharray="4,2" opacity="1"/>
+<text x="1033.0" y="636.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="1">GL2</text>
+<rect x="1070" y="617.0" width="58" height="30" rx="15" fill="#5161fd" stroke="#97a0f9" stroke-opacity="0.9" stroke-width="1.2" opacity="1"/>
+<text x="1099.0" y="636.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#f8f7f4" opacity="1">GL3</text>
+<rect x="938" y="657.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="967.0" y="676.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL4</text>
+<rect x="1004" y="657.0" width="58" height="30" rx="15" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" stroke-width="1.2" opacity="0.55"/>
+<text x="1033.0" y="676.0" text-anchor="middle" font-size="11.2" font-weight="700" fill="#1e1e1e" opacity="0.55">GL5</text>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e1e1e" fill-opacity="0.4"/></marker></defs>
+<rect x="10" y="746" width="18" height="18" rx="9" fill="#5161fd"/>
+<text x="34" y="759" font-size="11.5" fill="#1e1e1e">Established</text>
+<rect x="140" y="746" width="18" height="18" rx="9" fill="#aeb5f8" stroke="#97a0f9" stroke-dasharray="4,2"/>
+<text x="164" y="759" font-size="11.5" fill="#1e1e1e">Moderate confidence / plausible</text>
+<rect x="380" y="746" width="18" height="18" rx="9" fill="#edeef5" stroke="#1e1e1e" stroke-opacity="0.25" opacity="0.55"/>
+<text x="404" y="759" font-size="11.5" fill="#1e1e1e">Not established</text>
+<line x1="10" y1="780" x2="1146" y2="780" stroke="#1e1e1e" stroke-opacity="0.12"/>
+<text x="10" y="800" font-size="11.5" font-style="italic" fill="#1e1e1e" opacity="0.7">† Cross-Episode instrument: also documented as the AISI Network's own Feb. 2025 second Joint Testing Exercise — not a Bletchley-exclusive output (§4.2–§4.3).</text>
+</svg>

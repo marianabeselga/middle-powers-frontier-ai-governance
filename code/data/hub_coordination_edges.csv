@@ -1,0 +1,23 @@
+source_actor,target_hub,hub_node_type,coordination_level,episode_id,evidence_id
+CTY-SGP,New Delhi Science Working Group,MECHANISM,mixed,EP-BLETCHLEY-SEQUENCE-2023,EVD-SGP-016
+CTY-IND,New Delhi Science Working Group,MECHANISM,mixed,EP-BLETCHLEY-SEQUENCE-2023,EVD-IND-019
+CTY-CAN,New Delhi Science Working Group,MECHANISM,mixed,EP-BLETCHLEY-SEQUENCE-2023,EVD-CAN-015
+CTY-SGP,AISI Network Joint Testing Exercises,MECHANISM,technical-operational,EP-AISI-NETWORK-2024,EVD-SGP-017
+CTY-JPN,AISI Network Joint Testing Exercises,MECHANISM,technical-operational,EP-AISI-NETWORK-2024,EVD-JPN-017
+CTY-KOR,AISI Network Joint Testing Exercises,MECHANISM,technical-operational,EP-AISI-NETWORK-2024,EVD-KOR-015
+CTY-CAN,AISI Network Joint Testing Exercises,MECHANISM,technical-operational,EP-AISI-NETWORK-2024,EVD-CAN-016
+CTY-JPN,Hiroshima AI Process Friends Group,COALITION,state/diplomatic,EP-HIROSHIMA-AI-2024,EVD-JPN-018
+CTY-BRA,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-BRA-021
+CTY-CAN,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-CAN-018
+CTY-IND,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-IND-021
+CTY-JPN,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-JPN-019
+CTY-KOR,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-KOR-017
+CTY-SGP,GPAI Expert Working Group - Innovation & Commercialisation,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-SGP-019
+CTY-CAN,GPAI Expert Working Group - Responsible AI,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-CAN-018
+CTY-IND,GPAI Expert Working Group - Responsible AI,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-IND-021
+CTY-JPN,GPAI Expert Working Group - Responsible AI,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-JPN-019
+CTY-KOR,GPAI Expert Working Group - Responsible AI,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-KOR-017
+CTY-SGP,GPAI Expert Working Group - Responsible AI,MECHANISM,expert/epistemic,EP-GPAI-2024,EVD-SGP-019
+CTY-CAN,GPAI Founding Coalition (2020),COALITION,state/diplomatic,EP-GPAI-2024,EVD-CAN-018
+CTY-JPN,GPAI Founding Coalition (2020),COALITION,state/diplomatic,EP-GPAI-2024,EVD-JPN-019
+CTY-IND,GPAI-OECD Integrated Partnership (2024),INSTRUMENT,state/diplomatic,EP-GPAI-2024,EVD-IND-021
