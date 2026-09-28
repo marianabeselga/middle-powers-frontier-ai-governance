@@ -152,4 +152,4 @@ Each script writes a PNG to `code/output/`. Requires Python 3.9+, `matplotlib`, 
 
 ## Citation
 
-If you use this repository, please cite: *Beselga, Mariana. (2026). *How Middle Powers Shape Frontier AI Governance: Replication Package.*
+If you use this repository, please cite: Beselga, Mariana. (2026). *How Middle Powers Shape Frontier AI Governance: Replication Package.*
