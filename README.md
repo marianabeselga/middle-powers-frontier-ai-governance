@@ -30,13 +30,13 @@ the article's Figure 1–5 numbering.
 /codebook     The single authoritative methodology document (definitions, coding rules,
               scales, decision rules). Nothing in /data departs from it.
 /data
-  /countries  Six country-level baseline profiles: capability (C1-C5) and structural-
+/countries  Six country-level baseline profiles: capability (C1-C5) and structural-
               condition (S1-S4) ratings, each cited to Evidence IDs. Underlies Figure 1.
-  /episodes   The four coded coordination episodes (Bletchley Sequence, AISI Network,
+/episodes   The four coded coordination episodes (Bletchley Sequence, AISI Network,
               Hiroshima AI Process, GPAI), the cross-case comparison matrix, and the
               results-synthesis draft (figure captions and placement). Underlies
               Figures 4-5, and part of Figures 2-3.
-  /network    The relational datasets: documented participation, established coordination
+/network    The relational datasets: documented participation, established coordination
               (direct dyadic ties and hub/configuration ties), edge-validation notes, and
               the network-density/centrality metrics. Underlies Figures 2-3.
 /sources      The source register: one file per cited document (title, author/institution,
