@@ -2,7 +2,7 @@
 # Middle-Power Coordination and Frontier AI Governance — Reproducibility Package
 
 This repository contains the data, coding, and reproduction code underlying **Figures**
-of the article *Turning International AI Red Lines Into Action: The Role of Middle Powers by Mariana Beselga]*, a comparative qualitative study of middle-power coordination in frontier AI
+of the article *Turning International AI Red Lines Into Action: The Role of Middle Powers by Mariana Beselga*, a comparative qualitative study of middle-power coordination in frontier AI
 governance across six cases: Brazil, Canada, India, Japan, Singapore, and South Korea.
 
 It is a reproducibility package, not the full research repository. It contains what is
