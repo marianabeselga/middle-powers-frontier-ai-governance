@@ -1,9 +1,8 @@
 [README.md](https://github.com/user-attachments/files/32764428/README.md)
 # Middle-Power Coordination and Frontier AI Governance — Reproducibility Package
 
-This repository contains the data, coding, and reproduction code underlying **Figures 1–5**
-of the article *[article title, author(s), and venue to be inserted by the author before
-publication]*, a comparative qualitative study of middle-power coordination in frontier AI
+This repository contains the data, coding, and reproduction code underlying **Figures**
+of the article *Turning International AI Red Lines Into Action: The Role of Middle Powers by Mariana Beselga]*, a comparative qualitative study of middle-power coordination in frontier AI
 governance across six cases: Brazil, Canada, India, Japan, Singapore, and South Korea.
 
 It is a reproducibility package, not the full research repository. It contains what is
@@ -153,4 +152,4 @@ Each script writes a PNG to `code/output/`. Requires Python 3.9+, `matplotlib`, 
 
 ## Citation
 
-If you use this repository, please cite the article: *[citation to be added by the author]*.
+If you use this repository, please cite: *Beselga, Mariana. (2026). *How Middle Powers Shape Frontier AI Governance: Replication Package.*
